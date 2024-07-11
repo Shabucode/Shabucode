@@ -12,7 +12,9 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-[![Shabnam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shabucode)](https://github.com/Shabucode/github-readme-stats)
+![Shabucode's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shabucode&show_icons=true&theme=radical)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shabucode&layout=compact)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shabucode&theme=dark&date_format=M%20j%5B%2C%20Y%5D)

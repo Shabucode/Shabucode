@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shabucode
+- 👋 Hi, I’m Shabnam Fathima Basheer @Shabucode
 - 👀 I’m interested in Machine Learning 
 - 🌱 I’m currently learning new stuffs 
 - 💞️ I’m looking to collaborate on machine learning projects

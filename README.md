@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on machine learning projects
 - 📫 Reach me through email: shabnamb4u@gmail.com
 - 😄 Pronouns: She
-- ⚡ Fun fact: New learnings surprises me everyday.... Fun Learning
+- ⚡ Fun fact: New learnings surprises me everyday.... Fun Learning and Uncovering techniques
 
 <!---
 Shabucode/Shabucode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
